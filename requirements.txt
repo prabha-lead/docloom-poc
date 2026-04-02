@@ -1,0 +1,4 @@
+--extra-index-url https://elsai-core-package.optisolbusiness.com/root/elsai-docloom/
+gradio>=6.10.0
+python-dotenv>=1.2.2
+elsai-docloom==0.1.4
